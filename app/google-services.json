@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20096522827",
+    "project_id": "anmarketplacekt",
+    "storage_bucket": "anmarketplacekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20096522827:android:f55ef9d022eb13c1968bce",
+        "android_client_info": {
+          "package_name": "com.ArsenyGo.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20096522827-tnak718t8m1b5g0gdd613dd6i6vge1ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ArsenyGo.marketplace",
+            "certificate_hash": "3d5c953a789f8782b9e907b8e0e82adfe9cc8846"
+          }
+        },
+        {
+          "client_id": "20096522827-2c2kv161jfhjkomvh4d9lbnl0hrd5utb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6dGoodmaZVUMBjTVJY1EZRbG8Cs1VOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20096522827-2c2kv161jfhjkomvh4d9lbnl0hrd5utb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

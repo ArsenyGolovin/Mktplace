@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+    <!-- Menu Drawer Strings -->
+    <string name="an">Объявления</string>
+    <string name="my_an">Мои объявления</string>
+    <string name="an_car">Автомобили</string>
+    <string name="ac">Аккаунт</string>
+    <string name="ac_sign_up">Регистрация</string>
+    <string name="ac_sign_in">Вход</string>
+    <string name="ac_sign_out">Выход</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="anon_user">Без аккаунта</string>
+    <!-- Sign Dialog -->
+    <string name="email_hint">Email</string>
+    <string name="reset_email">Письмо для сброса пароля было отправлено</string>
+    <string name="reset_email_message">Введите Email адресс</string>
+    <string name="password_hint">Пароль</string>
+    <string name="sign_up_act">Зарегистрироваться</string>
+    <string name="sign_in_act">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up_err">Не удалось зарегистрироваться</string>
+    <string name="sign_in_err">Не удалось войти в аккаунт</string>
+    <string name="send_ver_err">Не удалось отправить email для подтверждения</string>
+    <string name="send_ver_done">Ссылка для подтверждения была отправлена на вашу почту</string>
+    <string name="link_done">Google аккаунт соединён с email</string>
+    <!-- Edit Activity -->
+    <string name="select_country">*Страна</string>
+    <string name="select_city">*Город</string>
+</resources>
